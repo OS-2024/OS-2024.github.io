@@ -6,7 +6,7 @@
 
 If you have any questions and suggestions about the course, experiments and teaching, please contact the teacher and TAs.
 
-#### Teachers
+#### Teacher
 
 - **Chi Zhang**  
 
