@@ -17,7 +17,7 @@ If you have any questions and suggestions about the course, experiments and teac
 
 - **Zhendong Yu**  
 
-  Email：cwtong@mail.ustc.edu.cn 
+  Email：yzd2117439876@mail.ustc.edu.cn 
 
 - **Xuanmin Hu** 
 
