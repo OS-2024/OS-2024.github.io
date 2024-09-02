@@ -10,7 +10,7 @@ If you have any questions and suggestions about the course, experiments and teac
 
 - **Chi Zhang**  
 
-  Office：West area Science and Technology Building 907   
+  Office：West Campus, Science and Technology Building 907   
   Email：chizhang@ustc.edu.cn
 
 #### TAs
@@ -26,12 +26,12 @@ If you have any questions and suggestions about the course, experiments and teac
 ### Course Materials
 
 
-* Textbook  [Download url](https://rec.ustc.edu.cn/share/132180c0-6869-11ef-8047-4528a647b40a) 
-* Reading Material  [Download url](https://rec.ustc.edu.cn/share/483b1450-6869-11ef-9823-85a5d934c80c) 
+* Textbook  [Download url](https://rec.ustc.edu.cn/share/1b551cd0-68d2-11ef-aea3-0f111aebecd4) 
+* Reading Material  [Download url](https://rec.ustc.edu.cn/share/0469be90-68d2-11ef-bfa1-59482ddc3661) 
 
 ### Assignment
 
-Homework requirements: answer in English or Chinese, PDF file，handwriting.
+Homework requirements: answer in English or Chinese, PDF file.
 
 Homework DDL: submit the homework before 12:00 p.m. on the Sunday of the next week after the assignment. It is not allowed to submit the homework for any reason after the deadline. If there are special circumstances, please contact the TAs before the deadline.
 
@@ -43,11 +43,11 @@ Homework DDL: submit the homework before 12:00 p.m. on the Sunday of the next we
 
 
 
-### Experiment Assignment(TBD)
+### Experiment Assignment
 
 Report requirements: answer in Chinese, PDF file. [template](https://rec.ustc.edu.cn/share/e47f4bb0-6869-11ef-b9f8-71c18dfa3bfd) 
 
-Here are lab environment configuration guide(Either one will do)
+Here are lab environment configuration guide (Either one will do)
 
 - VLAB Environment Configuration Guide (Recommended) [Download url](https://rec.ustc.edu.cn/share/0a6b3a40-686a-11ef-8116-6d617f7673dd) 
 - Ubuntu Environment Configuration Guide [Download url](https://rec.ustc.edu.cn/share/40a1dde0-686a-11ef-86e0-0bd2ac0358ab) 
@@ -58,4 +58,4 @@ Here are lab environment configuration guide(Either one will do)
 
 Corresponding PPTs will be uploaded after the class to ensure the contents up-to-date.
 
-The 2023 version [Download url](https://rec.ustc.edu.cn/share/26971480-7c99-11ee-bbf9-abe62746b0ba) is for preview purposes only. Please refer to the latest PPT for review and homework.
+The 2023 version [Download url](https://rec.ustc.edu.cn/share/56d24140-68d3-11ef-8280-c5ca51c1f51b) is for preview purposes only. Please refer to the latest PPT for review and homework.
