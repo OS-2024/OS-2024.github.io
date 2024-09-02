@@ -1,10 +1,10 @@
 #      The 2024 Fall Operating System Course Homepage
 
-###    We will put all the materials required for the course on this page, and you can download them according to your own needs.
+**We will put all the materials required for the course on this page, and you can download them according to your own needs.**
 
 ### Course Introduction
 
-If you have any questions and suggestions about the course, experiments and teaching, please contact the teachers and TAs.
+If you have any questions and suggestions about the course, experiments and teaching, please contact the teacher and TAs.
 
 #### Teachers
 
@@ -53,3 +53,9 @@ Here are lab environment configuration guide(Either one will do)
 - Ubuntu Environment Configuration Guide [Download url](https://rec.ustc.edu.cn/share/40a1dde0-686a-11ef-86e0-0bd2ac0358ab) 
 
 
+
+### Slides
+
+Corresponding PPTs will be uploaded after the class to ensure the contents up-to-date.
+
+The 2023 version [Download url](https://rec.ustc.edu.cn/share/26971480-7c99-11ee-bbf9-abe62746b0ba) is for preview purposes only. Please refer to the latest PPT for review and homework.
