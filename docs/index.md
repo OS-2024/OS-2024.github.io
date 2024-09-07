@@ -10,7 +10,7 @@ If you have any questions and suggestions about the course, experiments and teac
 
 - **Chi Zhang**  
 
-  Office：West Campus, Science and Technology Building 907   
+  Office:  West Campus, Science and Technology Building 907   
   Email：chizhang@ustc.edu.cn
 
 #### TAs
@@ -22,6 +22,10 @@ If you have any questions and suggestions about the course, experiments and teac
 - **Xuanmin Hu** 
 
   Email：xmhu2001@mail.ustc.edu.cn
+
+* **Haodong Guo**
+
+  Email：kd190338ghd@mail.ustc.edu.cn
 
 ***
 
