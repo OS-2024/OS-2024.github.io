@@ -75,3 +75,4 @@ Corresponding PPTs will be uploaded after the class to ensure the contents up-to
 The 2023 version [Download url](https://rec.ustc.edu.cn/share/56d24140-68d3-11ef-8280-c5ca51c1f51b) is for preview purposes only. Please refer to the latest PPT for review and homework.
 
 * 01 Overview [Download url](https://rec.ustc.edu.cn/share/444adc60-69c2-11ef-9fea-27a3ae96004d) (2024/09/03)
+* 02 Hardware Support [Download url](https://rec.ustc.edu.cn/share/43fad910-72a7-11ef-82de-b3b8021b457f) (2024/09/14)
