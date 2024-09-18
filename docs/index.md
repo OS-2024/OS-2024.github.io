@@ -43,10 +43,8 @@ Homework requirements: answer in English or Chinese, PDF file.
 
 Homework DDL: submit the homework before 12:00 p.m. on the Sunday of the next week after the assignment. It is not allowed to submit the homework for any reason after the deadline. If there are special circumstances, please contact the TAs before the deadline.
 
-* Homework 1
-  P37: **Problems** 1.3, 1.4, 1.7, 1.8, 1.9 (8th Edition)
-  * ddl: 9.22 23:59
-
+* Homework  1: P37 **Problems** 1.3, 1.4, 1.7, 1.8, 1.9 (8th Edition)
+  * ddl: 2024.09.22 23:59
 ***
 
 ### Experiment Materials
