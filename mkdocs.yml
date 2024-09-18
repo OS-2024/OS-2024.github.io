@@ -3,3 +3,4 @@ repo_name: OS-2024/OS-2024.github.io
 repo_url: https://github.com/OS-2024/OS-2024.github.io
 theme:
   name: material
+  language: zh
