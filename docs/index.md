@@ -41,7 +41,15 @@ If you have any questions and suggestions about the course, experiments and teac
 
 Homework requirements: answer in English or Chinese, PDF file.
 
-Homework DDL: submit the homework before 12:00 p.m. on the Sunday of the next week after the assignment. It is not allowed to submit the homework for any reason after the deadline. If there are special circumstances, please contact the TAs before the deadline.
+Homework DDL: submit the homework before 12:00 p.m. on the Sunday of the next week after the assignment. 
+
+Additional notes on assignments:
+
+1. Each assignment is worth 10 points, no special circumstances, are submitted through the bb platform, the form of submission requires handwritten photos or scanning and uploading.
+
+2. For the late submission of homework scores, DDL deadline day late submission (Monday night before 12:00 pm) is full of 8 points, the next day (Tuesday night before 12:00 pm) is full of 6 points, and after that, the upper limit of each week decreases by 2 points.
+
+3. Plagiarism is strictly prohibited, and any suspected plagiarism will be verified and dealt with as appropriate.
 
 * Homework  1: P37 **Problems** 1.3, 1.4, 1.7, 1.8, 1.9 (8th Edition)
   * ddl: 2024.09.22 23:59
