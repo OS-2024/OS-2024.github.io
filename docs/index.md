@@ -51,6 +51,8 @@ Additional notes on assignments:
 
 3. Plagiarism is strictly prohibited, and any suspected plagiarism will be verified and dealt with as appropriate.
 
+***
+
 * Homework  1: P37 **Problems** 1.3, 1.4, 1.7, 1.8, 1.9 (8th Edition)
   * ddl: 2024.09.22 23:59
 ***
