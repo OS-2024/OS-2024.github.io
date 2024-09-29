@@ -86,3 +86,4 @@ The 2023 version [Download url](https://rec.ustc.edu.cn/share/56d24140-68d3-11ef
 
 * 01 Overview [Download url](https://rec.ustc.edu.cn/share/444adc60-69c2-11ef-9fea-27a3ae96004d) (2024/09/03)
 * 02 Hardware Support [Download url](https://rec.ustc.edu.cn/share/43fad910-72a7-11ef-82de-b3b8021b457f) (2024/09/14)
+* 03 OS intro [Download url](https://rec.ustc.edu.cn/share/a73cbd60-7e27-11ef-96b7-ffd6959dcaa3) (2024/09/29)
