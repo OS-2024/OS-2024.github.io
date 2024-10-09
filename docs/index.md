@@ -60,6 +60,10 @@ Additional notes on assignments:
 * Homework  2: P103 **Problems** 2.1, 2.2, 2.3, 2.4,2.6 (8th Edition)
 
   - ddl: 2024.10.6 23:59
+
+* Homework 3: P149: **Problems** 3.3, 3.5, 3.9 (8th Edition)
+
+  - ddl: 2024.10.20 23:59
 ***
 
 ### Experiment Materials
