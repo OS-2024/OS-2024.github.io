@@ -93,3 +93,4 @@ The 2023 version [Download url](https://rec.ustc.edu.cn/share/56d24140-68d3-11ef
 * 02 Hardware Support [Download url](https://rec.ustc.edu.cn/share/43fad910-72a7-11ef-82de-b3b8021b457f) (2024/09/14)
 * 03 OS Intro [Download url](https://rec.ustc.edu.cn/share/a73cbd60-7e27-11ef-96b7-ffd6959dcaa3) (2024/09/29)
 * 04 Process Concept [Download url](https://rec.ustc.edu.cn/share/cf5a50f0-7ef6-11ef-9ed6-657f1e8ded50) (2024/09/30)
+* 05 Thread & IPC [Download url](https://rec.ustc.edu.cn/share/1255a7a0-8608-11ef-a0b8-0fb0fd5d8626) (2024/10/08)
