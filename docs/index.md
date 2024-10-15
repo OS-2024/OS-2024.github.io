@@ -64,6 +64,10 @@ Additional notes on assignments:
 * Homework 3: P149: **Problems** 3.3, 3.5, 3.9 (8th Edition)
 
   - ddl: 2024.10.20 23:59
+
+* Homework 4: P195: **Problem** 4.5 (8th Edition) 
+
+  - ddl: 2024.10.27 23:59
 ***
 
 ### Experiment Materials
@@ -98,3 +102,4 @@ The 2023 version [Download url](https://rec.ustc.edu.cn/share/56d24140-68d3-11ef
 * 03 OS Intro [Download url](https://rec.ustc.edu.cn/share/a73cbd60-7e27-11ef-96b7-ffd6959dcaa3) (2024/09/29)
 * 04 Process Concept [Download url](https://rec.ustc.edu.cn/share/cf5a50f0-7ef6-11ef-9ed6-657f1e8ded50) (2024/09/30)
 * 05 Thread & IPC [Download url](https://rec.ustc.edu.cn/share/1255a7a0-8608-11ef-a0b8-0fb0fd5d8626) (2024/10/08)
+* 06 Process Schedule [Download url](https://rec.ustc.edu.cn/share/75b21580-8b03-11ef-b02d-1f0c4731a786) (2024/10/15)
