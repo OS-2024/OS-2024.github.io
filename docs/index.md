@@ -74,8 +74,6 @@ Additional notes on assignments:
 
 * GuideBook ：[Download url](https://rec.ustc.edu.cn/share/9c609a20-6869-11ef-80f4-f368e5e06e8a) 
 
-
-
 ***
 
 ### Experiment Assignment
@@ -87,7 +85,17 @@ Here are lab environment configuration guide (Either one will do)
 - VLAB Environment Configuration Guide (Recommended) [Download url](https://rec.ustc.edu.cn/share/0a6b3a40-686a-11ef-8116-6d617f7673dd) 
 - Ubuntu Environment Configuration Guide [Download url](https://rec.ustc.edu.cn/share/40a1dde0-686a-11ef-86e0-0bd2ac0358ab) 
 
+* Lab1-Utils [materials](https://rec.ustc.edu.cn/share/98c7c5f0-8eab-11ef-b6fc-291c4ce705b7)
 
+* Lab2-System calls [materials](https://rec.ustc.edu.cn/share/336d8960-8eac-11ef-a13e-b33e83930c39)
+
+* Lab3-Multithreading [materials](https://rec.ustc.edu.cn/share/40a897d0-8eac-11ef-aa84-cf07f56ed78b)
+
+* Lab4-Locks [materials](https://rec.ustc.edu.cn/share/4d543b90-8eac-11ef-81a7-cd9dd33e2509)
+
+* Lab5-Page table [materials](https://rec.ustc.edu.cn/share/6db14460-8eac-11ef-a26f-e3f5bc22d058)
+
+* Lab6-File system [materials](https://rec.ustc.edu.cn/share/9a0caae0-8eac-11ef-9a21-5ff86a86f07f)
 
 ***
 
