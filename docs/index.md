@@ -113,3 +113,4 @@ The 2023 version [Download url](https://rec.ustc.edu.cn/share/56d24140-68d3-11ef
 * 04 Process Concept [Download url](https://rec.ustc.edu.cn/share/cf5a50f0-7ef6-11ef-9ed6-657f1e8ded50) (2024/09/30)
 * 05 Thread & IPC [Download url](https://rec.ustc.edu.cn/share/1255a7a0-8608-11ef-a0b8-0fb0fd5d8626) (2024/10/08)
 * 06 Process Schedule [Download url](https://rec.ustc.edu.cn/share/75b21580-8b03-11ef-b02d-1f0c4731a786) (2024/10/15)
+* 07 Mutual Exclusion [Download url](https://rec.ustc.edu.cn/share/4eaa9c50-903d-11ef-a227-25bb5ca4bca7) (2024/10/22)
