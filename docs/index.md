@@ -68,6 +68,10 @@ Additional notes on assignments:
 * Homework 4: P195: **Problem** 4.5 (8th Edition) 
 
   - ddl: 2024.10.27 23:59
+
+* Homework 5: [Homework_url](https://rec.ustc.edu.cn/share/51cfbfe0-9147-11ef-801c-d109a171345a)
+
+  - ddl: 2024.11.3 23:59
 ***
 
 ### Experiment Materials
