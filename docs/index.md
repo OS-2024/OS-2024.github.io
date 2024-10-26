@@ -82,14 +82,14 @@ Additional notes on assignments:
 
 ### Experiment Assignment
 
-Report requirements: answer in Chinese, PDF file. [template](https://rec.ustc.edu.cn/share/e47f4bb0-6869-11ef-b9f8-71c18dfa3bfd) 
+Report requirements: write in Chinese, PDF file. [template](https://rec.ustc.edu.cn/share/e47f4bb0-6869-11ef-b9f8-71c18dfa3bfd) 
 
 Here are lab environment configuration guide (Either one will do)
 
 - VLAB Environment Configuration Guide (Recommended) [Download url](https://rec.ustc.edu.cn/share/0a6b3a40-686a-11ef-8116-6d617f7673dd) 
 - Ubuntu Environment Configuration Guide [Download url](https://rec.ustc.edu.cn/share/40a1dde0-686a-11ef-86e0-0bd2ac0358ab) 
 
-There are 6 experiments below. You can choose to do 5 of them and submit the experimental report according to the requirements
+There are 6 experiments below. You can choose to do 5 of them and submit the experimental report according to the requirements. We don't set separate deadlines for each experiment, and **all experiments must be conducted before 12.22**
 
 * Lab1-Utils [materials](https://rec.ustc.edu.cn/share/98c7c5f0-8eab-11ef-b6fc-291c4ce705b7)
 
