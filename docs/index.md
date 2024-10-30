@@ -53,11 +53,11 @@ Additional notes on assignments:
 
 ***
 
-* Homework  1: P37 **Problems** 1.3, 1.4, 1.7, 1.8, 1.9 (8th Edition)
+* Homework  1: P37 **Problems** 1.3, 1.4, 1.7, 1.8, 1.9 (8th Edition) [Answer](https://rec.ustc.edu.cn/share/5f538a60-96a5-11ef-8c8a-afc7dea834c5)
 
   - ddl: 2024.09.22 23:59
 
-* Homework  2: P103 **Problems** 2.1, 2.2, 2.3, 2.4,2.6 (8th Edition)
+* Homework  2: P103 **Problems** 2.1, 2.2, 2.3, 2.4,2.6 (8th Edition) [Answer](https://rec.ustc.edu.cn/share/ab249a30-96a5-11ef-abf3-9900d446f800)
 
   - ddl: 2024.10.6 23:59
 
