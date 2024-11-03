@@ -57,11 +57,11 @@ Additional notes on assignments:
 
   - ddl: 2024.09.22 23:59
 
-* Homework  2: P103 **Problems** 2.1, 2.2, 2.3, 2.4,2.6 (8th Edition) [Answer](https://rec.ustc.edu.cn/share/ab249a30-96a5-11ef-abf3-9900d446f800)
+* Homework  2: P103 **Problems** 2.1, 2.2, 2.3, 2.4, 2.6 (8th Edition) [Answer](https://rec.ustc.edu.cn/share/ab249a30-96a5-11ef-abf3-9900d446f800)
 
   - ddl: 2024.10.6 23:59
 
-* Homework 3: P149: **Problems** 3.3, 3.5, 3.9 (8th Edition)
+* Homework 3: P149: **Problems** 3.3, 3.5, 3.9 (8th Edition) [Answer](https://rec.ustc.edu.cn/share/59969210-99e6-11ef-9ce6-f304fbcb303c)
 
   - ddl: 2024.10.20 23:59
 
