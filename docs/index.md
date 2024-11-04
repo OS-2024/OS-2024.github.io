@@ -72,6 +72,10 @@ Additional notes on assignments:
 * Homework 5: [Homework_url](https://rec.ustc.edu.cn/share/51cfbfe0-9147-11ef-801c-d109a171345a)
 
   - ddl: 2024.11.3 23:59
+
+* Homework 6: [Homework_url](https://rec.ustc.edu.cn/share/840ddbf0-9a73-11ef-b9c1-4502d0c07bec)
+
+  - ddl: 2024.11.11 23:59
 ***
 
 ### Experiment Materials
@@ -118,3 +122,4 @@ The 2023 version [Download url](https://rec.ustc.edu.cn/share/56d24140-68d3-11ef
 * 05 Thread & IPC [Download url](https://rec.ustc.edu.cn/share/1255a7a0-8608-11ef-a0b8-0fb0fd5d8626) (2024/10/08)
 * 06 Process Schedule [Download url](https://rec.ustc.edu.cn/share/75b21580-8b03-11ef-b02d-1f0c4731a786) (2024/10/15)
 * 07 Mutual Exclusion [Download url](https://rec.ustc.edu.cn/share/4eaa9c50-903d-11ef-a227-25bb5ca4bca7) (2024/10/22)
+* 08 Synchronization [Download url](https://rec.ustc.edu.cn/share/08d9c8f0-9a73-11ef-a319-715a354aa830) (2024/11/04)
