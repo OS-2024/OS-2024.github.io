@@ -126,5 +126,5 @@ The 2023 version [Download url](https://rec.ustc.edu.cn/share/56d24140-68d3-11ef
 * 05 Thread & IPC [Download url](https://rec.ustc.edu.cn/share/1255a7a0-8608-11ef-a0b8-0fb0fd5d8626) (2024/10/08)
 * 06 Process Schedule [Download url](https://rec.ustc.edu.cn/share/75b21580-8b03-11ef-b02d-1f0c4731a786) (2024/10/15)
 * 07 Mutual Exclusion [Download url](https://rec.ustc.edu.cn/share/4eaa9c50-903d-11ef-a227-25bb5ca4bca7) (2024/10/22)
-* 08 Synchronization [Download url](https://rec.ustc.edu.cn/share/08d9c8f0-9a73-11ef-a319-715a354aa830) (2024/11/04)
+* 08 Synchronization [Download url](https://rec.ustc.edu.cn/share/36a6ee90-9b74-11ef-9e26-0968c0e8f8d2) (2024/11/04)
 * 09 Deadlock [Download url](https://rec.ustc.edu.cn/share/ee625fe0-9b3b-11ef-9459-85ca9c8b267a) (2024/11/05)
