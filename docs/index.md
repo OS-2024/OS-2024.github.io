@@ -72,8 +72,8 @@ Additional notes on assignments:
 * Homework 5: [Homework_url](https://rec.ustc.edu.cn/share/51cfbfe0-9147-11ef-801c-d109a171345a)
 
   - ddl: 2024.11.3 23:59
-
-* Homework 6: [Homework_url](https://rec.ustc.edu.cn/share/840ddbf0-9a73-11ef-b9c1-4502d0c07bec)
+ 
+* Homework 6: [Homework_url](https://rec.ustc.edu.cn/share/840ddbf0-9a73-11ef-b9c1-4502d0c07bec) [Answer](https://rec.ustc.edu.cn/share/ebf70010-afb9-11ef-87d5-9123be28ad33)
 
   - ddl: 2024.11.10 23:59
 
