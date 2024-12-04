@@ -69,27 +69,27 @@ Additional notes on assignments:
 
   - ddl: 2024.10.27 23:59
 
-* Homework 5: [Homework_url](https://rec.ustc.edu.cn/share/51cfbfe0-9147-11ef-801c-d109a171345a)
+* Homework 5: [Homework](https://rec.ustc.edu.cn/share/51cfbfe0-9147-11ef-801c-d109a171345a)
 
   - ddl: 2024.11.3 23:59
  
-* Homework 6: [Homework_url](https://rec.ustc.edu.cn/share/840ddbf0-9a73-11ef-b9c1-4502d0c07bec) [Answer](https://rec.ustc.edu.cn/share/ebf70010-afb9-11ef-87d5-9123be28ad33)
+* Homework 6: [Homework](https://rec.ustc.edu.cn/share/840ddbf0-9a73-11ef-b9c1-4502d0c07bec) [Answer](https://rec.ustc.edu.cn/share/ebf70010-afb9-11ef-87d5-9123be28ad33)
 
   - ddl: 2024.11.10 23:59
 
-* Homework 7: [Homework_url](https://rec.ustc.edu.cn/share/3fefd500-9b40-11ef-83db-13c4a1ce3adb)
+* Homework 7: [Homework](https://rec.ustc.edu.cn/share/3fefd500-9b40-11ef-83db-13c4a1ce3adb) [Answer](https://rec.ustc.edu.cn/share/3a501680-b1fc-11ef-b514-e7558ff13677)
 
   - ddl: 2024.11.17 23:59
 
-* Homework 8: [Homework_url](https://rec.ustc.edu.cn/share/904daf80-a0fe-11ef-b8f1-8b2cc9a80871)
+* Homework 8: [Homework](https://rec.ustc.edu.cn/share/904daf80-a0fe-11ef-b8f1-8b2cc9a80871)
 
   - ddl: 2024.11.24 23:59
 
-* Homework 9: [Homework_url](https://rec.ustc.edu.cn/share/ff6663e0-a710-11ef-af6b-db302086429e)
+* Homework 9: [Homework](https://rec.ustc.edu.cn/share/ff6663e0-a710-11ef-af6b-db302086429e)
 
   - ddl: 2024.12.1 23:59
 
-* Homework 10: [Homework_url](https://rec.ustc.edu.cn/share/d1032c30-b074-11ef-9320-b7af0d1d387d)
+* Homework 10: [Homework](https://rec.ustc.edu.cn/share/d1032c30-b074-11ef-9320-b7af0d1d387d)
 
   - ddl: 2024.12.8 23:59
 ***
