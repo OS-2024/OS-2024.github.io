@@ -104,6 +104,10 @@ Additional notes on assignments:
 * Homework 10: [Homework](https://rec.ustc.edu.cn/share/d1032c30-b074-11ef-9320-b7af0d1d387d)
 
     * ddl: 2024.12.8 23:59
+
+* Homework 11: [Homework](https://rec.ustc.edu.cn/share/9ef47e60-b6e0-11ef-9785-2feb196f6e0f)
+
+    * ddl: 2024.12.15 23.59
 ***
 
 ### Experiment Materials
