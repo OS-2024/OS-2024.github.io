@@ -142,4 +142,4 @@ The 2023 version [Download url](https://rec.ustc.edu.cn/share/56d24140-68d3-11ef
 * 09 Deadlock [Download url](https://rec.ustc.edu.cn/share/ee625fe0-9b3b-11ef-9459-85ca9c8b267a) (2024/11/05)
 * 10 Real Memory [Download url](https://rec.ustc.edu.cn/share/a1862a60-a0fe-11ef-842d-55024ab1dccf) (2024/11/12)
 * 11 Virtual Memory [Download url](https://rec.ustc.edu.cn/share/594bbe60-b141-11ef-95d3-19f1f0756234) (2024/12/03)
-* 12 IO [Download url](https://rec.ustc.edu.cn/share/754d9ca0-b141-11ef-8860-e3924ed04dfc) (2024/12/03)
+* 12 IO [Download url](https://rec.ustc.edu.cn/share/21affea0-b6bf-11ef-8212-31d89eff97ce) (2024/12/10)
