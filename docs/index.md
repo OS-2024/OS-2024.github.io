@@ -101,7 +101,7 @@ Additional notes on assignments:
 
     * ddl: 2024.12.1 23:59
 
-* Homework 10: [Homework](https://rec.ustc.edu.cn/share/d1032c30-b074-11ef-9320-b7af0d1d387d)
+* Homework 10: [Homework](https://rec.ustc.edu.cn/share/69e2fd80-b706-11ef-8966-75dcefde45ee)
 
     * ddl: 2024.12.8 23:59
 
