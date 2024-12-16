@@ -95,6 +95,8 @@ Additional notes on assignments:
 
 * Homework 8: [Homework](https://rec.ustc.edu.cn/share/904daf80-a0fe-11ef-b8f1-8b2cc9a80871)
 
+    * [Answer](https://rec.ustc.edu.cn/share/d5abdbc0-bb7a-11ef-a285-cfda10e7eb0d)
+    
     * ddl: 2024.11.24 23:59
 
 * Homework 9: [Homework](https://rec.ustc.edu.cn/share/ff6663e0-a710-11ef-af6b-db302086429e)
