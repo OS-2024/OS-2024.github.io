@@ -29,8 +29,12 @@ If you have any questions and suggestions about the course, experiments and teac
 
 ***
 
-### Course Materials
+### Review Materials
 
+* Exam Scope & Knowledge Point Summary [Download url](https://rec.ustc.edu.cn/share/f6edfb20-c904-11ef-9f0e-692e7ac72455)
+* Exercise Explanations [Download url](https://rec.ustc.edu.cn/share/e76f12b0-c903-11ef-9790-cfe415988948)
+
+### Course Materials
 
 * Textbook  [Download url](https://rec.ustc.edu.cn/share/1b551cd0-68d2-11ef-aea3-0f111aebecd4) 
 * Reading Material  [Download url](https://rec.ustc.edu.cn/share/0469be90-68d2-11ef-bfa1-59482ddc3661) 
@@ -121,7 +125,6 @@ Additional notes on assignments:
 
     * ddl: 2024.12.29 23:59
 ***
-
 ### Experiment Materials
 
 * GuideBook ：[Download url](https://rec.ustc.edu.cn/share/9c609a20-6869-11ef-80f4-f368e5e06e8a) 
