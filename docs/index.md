@@ -123,6 +123,8 @@ Additional notes on assignments:
 
 * Homework 12: [Homework](https://rec.ustc.edu.cn/share/b5e245d0-bd05-11ef-8f6d-89697b8a0cb8)
 
+    * [Answer](https://rec.ustc.edu.cn/share/5cba9bc0-ccd7-11ef-adbf-035462c8967f)
+    
     * ddl: 2024.12.29 23:59
 ***
 ### Experiment Materials
