@@ -79,6 +79,8 @@ Additional notes on assignments:
 
     * [Answer of hw4 & 5](https://rec.ustc.edu.cn/share/4eb98ec0-ac78-11ef-af8c-5505729c991e) and [Attachment](https://rec.ustc.edu.cn/share/7e5eb400-ac78-11ef-a1d3-b9ddc86bc5e5)
 
+    * **Notice** 9.2 answer correction: [url](https://rec.ustc.edu.cn/share/8f662ad0-d02e-11ef-b796-0376ef85f7dc)
+
     * ddl: 2024.10.27 23:59
 
 * Homework 5: [Homework](https://rec.ustc.edu.cn/share/51cfbfe0-9147-11ef-801c-d109a171345a)
